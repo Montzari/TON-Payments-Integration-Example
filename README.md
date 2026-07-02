@@ -38,7 +38,7 @@ This project demonstrates a simple web application for accepting and verifying T
 1. **Clone the repository:**
    ```bash
    git clone https://codeberg.org/user404/TonPayments.git
-   cd TonPayments-example
+   cd TonPayments
    ```
 
 2. **Install project dependencies:**
