@@ -72,7 +72,3 @@ The manifest file is required for TON wallet integration:
   "privacyPolicyUrl": "https://ton.org/privacy"    // Optional — link to your app's privacy policy
 }
 ```
-
-## License
-
-This project is provided as-is for educational purposes. Before distributing or deploying, consider adding a license of your choice.
